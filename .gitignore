@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+punycode.so
+punycode.dylib
+punycode.dll
+punycode.a
+punycode.lib
+punycode-test-*
+*.exe
+*.o
+*.obj
+*.lst
