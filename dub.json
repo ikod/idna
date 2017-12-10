@@ -1,0 +1,14 @@
+{
+    "name": "idna",
+    "authors": [
+        "Igor Khasilev"
+    ],
+    "description": "IDNA utilities",
+    "license": "BSL-1.0",
+    "configurations": [
+      {
+        "name": "std",
+        "targetType": "library",
+      }
+    ]
+}
